@@ -1,3 +1,4 @@
+# coding:utf-8
 from keras.applications.vgg16 import VGG16, preprocess_input, decode_predictions
 from keras.preprocessing import image
 import numpy as np
